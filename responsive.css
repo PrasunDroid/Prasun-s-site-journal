@@ -1,0 +1,29 @@
+@media screen and (max-width: 800px) {
+    body {
+        background-color: #f2f2f2;
+    }
+    .name {
+        background-color: #f2f2f2;
+        text-align: left;
+        font-family: Balthazar;
+        font-style: normal;
+        opacity: 1;
+        font-size: 1.7em;
+        letter-spacing: 0.2em;
+        line-height: 32px;
+        margin-bottom: 13px;
+        margin-top: 20px;
+        padding-left: 2em;
+        padding-right: 2em;
+        word-wrap: break-word;
+        word-break: break-all;
+    }
+    .navbar {
+        background-color: #f2f2f2;
+        text-align: center;
+    }
+    .navbar li {
+        list-style-type: none;
+        display: block;
+    }
+}
